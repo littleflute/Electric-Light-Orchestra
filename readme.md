@@ -1,5 +1,11 @@
-[v0.0.3](https://github.com/littleflute/Electric-Light-Orchestra/edit/master/README.md)
+[v0.0.4](https://github.com/littleflute/Electric-Light-Orchestra/edit/master/readme.md)
 [show this page](https://littleflute.github.io/Yani1/)
+
+[cd-E](cd-E)
+
+[cd-L](cd-L)
+
+[cd-O](cd-O)
 
 <audio controls id="player"> 
   <source src="https://littleflute.github.io/Electric-Light-Orchestra/Afterglow/cd-E/01_曲目 1.mp3" type="audio/mpeg">
